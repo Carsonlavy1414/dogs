@@ -1,0 +1,49 @@
+
+
+body {
+ font-color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: pink;
+  color: #333;
+background-image: url(https://th.bing.com/th/id/R.f82fc70c98a91c7dafa6de9fac55fabc?rik=nP28FNNEX5hUHQ&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f59%2f80%2fCs3PoI.jpg&ehk=yuq5FnF0aEyqJrxPfsoyPdhqkoPN9UkD1vR7i7Q%2f0Nw%3d&risl=&pid=ImgRaw&r=0);
+}
+
+/* Header styling */
+header {
+  background-color: blue;
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+ color: white;
+}
+
+/* Paragraph styling */
+p {
+  line-height: 1.6;
+  margin: 20px;
+  font-size: 16px;
+ color: white; }
+
+
+/* Button styling */
+button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+ color: grey;
+}
+
+button:hover {
+  background-color: green;
+ font-color:white;
+}
+
+Ol{ color:white;}
+a:hover{color:yellow}
+
